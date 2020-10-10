@@ -1,0 +1,3 @@
+/home/misgana/src/urlShortner/keyGenService/CMakeFiles/rebuild_cache.dir
+/home/misgana/src/urlShortner/keyGenService/CMakeFiles/edit_cache.dir
+/home/misgana/src/urlShortner/keyGenService/CMakeFiles/kgs.dir
